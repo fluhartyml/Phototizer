@@ -258,4 +258,8 @@
 //  2026-08-31 ~22:05  Name coined: "photo digitizer phototizer?"
 //  2026-09-02 ~19:01  Session crashed mid-request while pulling the idea up.
 //  2026-09-02 ~19:1x  Name confirmed, iOS 16 set, project scaffolded.
-//                     Built by voice dictation end to end.
+//                     Built MOSTLY by voice dictation. His correction:
+//                     "Well mostly voice I did kind of type the really
+//                     long sentences out." The typed parts were the ones
+//                     needing exact wording — chiefly the grammar
+//                     explanation of why "Prints" read as a verb.
