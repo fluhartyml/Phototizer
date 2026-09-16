@@ -248,6 +248,21 @@
 //  - No bundled audio, no third-party IP in screenshots.
 
 // ============================================================================
+// MARK: - 1.0 SUBMITTED 2026-09-16 09:07 — AND WHAT IT SHIPPED WITHOUT, ON PURPOSE
+// ============================================================================
+//
+//  1.0 (5), App Apple ID 6812775746, Photo & Video / Productivity. Support page
+//  https://fluharty.me/phototizer-support.html.
+//
+//  ⚠️ NO (i) / ABOUT SCREEN AND NO BUILD NUMBER ON SCREEN. His call, knowingly:
+//      "i looked and phototizer doesnt have an (i) either so no where to put
+//       contact information, i figured it should be ultra basic so i didnt push
+//       for that or the build number, its kinda too late now anyway"
+//  The build-number rule (every build shows its commit count) is NOT met by 1.0.
+//  ⬜ Next build: add an (i) with version, build number, build time and the
+//     support contact — ask him first, since the minimal UI was deliberate.
+
+// ============================================================================
 // MARK: - HISTORY
 // ============================================================================
 //
